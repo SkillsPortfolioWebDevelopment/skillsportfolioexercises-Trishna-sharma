@@ -1,0 +1,26 @@
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\bin\Debug\net6.0\appsettings.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\bin\Debug\net6.0\Fix me.staticwebassets.runtime.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\bin\Debug\net6.0\Fix me.exe
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\bin\Debug\net6.0\Fix me.deps.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\bin\Debug\net6.0\Fix me.runtimeconfig.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\bin\Debug\net6.0\Fix me.dll
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\bin\Debug\net6.0\Fix me.pdb
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\obj\Debug\net6.0\Fix me.csproj.AssemblyReference.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\obj\Debug\net6.0\Fix me.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\obj\Debug\net6.0\Fix me.AssemblyInfoInputs.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\obj\Debug\net6.0\Fix me.AssemblyInfo.cs
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\obj\Debug\net6.0\Fix me.csproj.CoreCompileInputs.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\obj\Debug\net6.0\Fix me.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\obj\Debug\net6.0\Fix me.RazorAssemblyInfo.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\obj\Debug\net6.0\Fix me.RazorAssemblyInfo.cs
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\obj\Debug\net6.0\scopedcss\bundle\Fix me.styles.css
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\obj\Debug\net6.0\scopedcss\projectbundle\Fix me.bundle.scp.css
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\obj\Debug\net6.0\Fix me.dll
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\obj\Debug\net6.0\refint\Fix me.dll
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\obj\Debug\net6.0\Fix me.pdb
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\obj\Debug\net6.0\Fix me.genruntimeconfig.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 1\Fix me\Fix me\obj\Debug\net6.0\ref\Fix me.dll
