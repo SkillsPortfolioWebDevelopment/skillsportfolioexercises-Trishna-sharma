@@ -1,0 +1,26 @@
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\bin\Debug\net6.0\appsettings.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\bin\Debug\net6.0\Replace Me Advanced.staticwebassets.runtime.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\bin\Debug\net6.0\Replace Me Advanced.exe
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\bin\Debug\net6.0\Replace Me Advanced.deps.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\bin\Debug\net6.0\Replace Me Advanced.runtimeconfig.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\bin\Debug\net6.0\Replace Me Advanced.dll
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\bin\Debug\net6.0\Replace Me Advanced.pdb
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\obj\Debug\net6.0\Replace Me Advanced.csproj.AssemblyReference.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\obj\Debug\net6.0\Replace Me Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\obj\Debug\net6.0\Replace Me Advanced.AssemblyInfoInputs.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\obj\Debug\net6.0\Replace Me Advanced.AssemblyInfo.cs
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\obj\Debug\net6.0\Replace Me Advanced.csproj.CoreCompileInputs.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\obj\Debug\net6.0\Replace Me Advanced.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\obj\Debug\net6.0\Replace Me Advanced.RazorAssemblyInfo.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\obj\Debug\net6.0\Replace Me Advanced.RazorAssemblyInfo.cs
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\obj\Debug\net6.0\scopedcss\bundle\Replace Me Advanced.styles.css
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\obj\Debug\net6.0\scopedcss\projectbundle\Replace Me Advanced.bundle.scp.css
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\obj\Debug\net6.0\Replace Me Advanced.dll
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\obj\Debug\net6.0\refint\Replace Me Advanced.dll
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\obj\Debug\net6.0\Replace Me Advanced.pdb
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\obj\Debug\net6.0\Replace Me Advanced.genruntimeconfig.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\Replace Me Advanced\Replace Me Advanced\obj\Debug\net6.0\ref\Replace Me Advanced.dll
