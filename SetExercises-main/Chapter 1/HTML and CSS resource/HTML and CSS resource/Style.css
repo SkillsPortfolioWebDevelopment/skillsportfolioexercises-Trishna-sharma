@@ -1,0 +1,28 @@
+﻿h1{
+    color:purple ;
+    float:right;
+}
+body{
+    font-size:18px;
+    background:lightpink;
+}
+table{
+    border:1px solid red;
+    border-block:1px solid red; 
+    font-family:Verdana ;
+}
+tr{
+    border:5px solid red;
+    border-block:double;
+    text-align:left;
+    padding:8px;
+
+}
+tr:nth-child(odd){
+    background-color :white ;
+}
+td{
+    border-block:double;
+    font-style:italic ;
+
+}
