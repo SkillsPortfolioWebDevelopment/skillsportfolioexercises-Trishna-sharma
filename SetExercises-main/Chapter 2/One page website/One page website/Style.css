@@ -1,0 +1,130 @@
+﻿
+.menu {
+    background-color: black;
+    overflow: auto;
+}
+
+    .menu a {
+        float: left;
+        color: white;
+        text-align: center;
+        padding: 15px 17px;
+        letter-spacing: 1px;
+        text-decoration: none;
+        font-size: 20px;
+    }
+
+        .menu a:active {
+            color: mediumpurple;
+        }
+
+        .menu a:hover {
+            color:;
+            background: mediumpurple;
+        }
+        nav.menu{
+            position:fixed ;
+            top :2px;
+            left:10px;
+            width:1500px;
+            height:70px;
+            z-index :1500;
+        }
+
+body {
+    background-color: black;
+}
+
+
+.searchbox {
+    float: right;
+}
+
+input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+}
+
+.searchbox button {
+    padding: 8px;
+    margin-top: 5px;
+    margin-left: 5px;
+    background: gray;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+    .searchbox button:hover {
+        background: pink;
+    }
+
+p {
+    color: white;
+}
+
+.head1 {
+    text-align :center;
+    color: white;
+}
+
+.image1 {
+    width: 450px;
+    height: 450px;
+    margin-left: 520px;
+    padding-top: 50px;
+    position: center;
+   
+}
+
+.table2 {
+    background-color: gray;
+    border: double;
+    height: 8px;
+    width: 1500px;
+}
+
+.para {
+    color: white;
+    font-size: 22px;
+    text-align:center;
+}
+h1{
+    text-align :center;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+    /* Add a hover effect if you want */
+    .fa:hover {
+        opacity: 0.7;
+    }
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+/* Instagram */
+.fa-instagram {
+    background: white;
+    color: red;
+}

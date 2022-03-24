@@ -1,0 +1,26 @@
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\bin\Debug\net6.0\appsettings.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\bin\Debug\net6.0\One page website.staticwebassets.runtime.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\bin\Debug\net6.0\One page website.exe
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\bin\Debug\net6.0\One page website.deps.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\bin\Debug\net6.0\One page website.runtimeconfig.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\bin\Debug\net6.0\One page website.dll
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\bin\Debug\net6.0\One page website.pdb
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\obj\Debug\net6.0\One page website.csproj.AssemblyReference.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\obj\Debug\net6.0\One page website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\obj\Debug\net6.0\One page website.AssemblyInfoInputs.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\obj\Debug\net6.0\One page website.AssemblyInfo.cs
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\obj\Debug\net6.0\One page website.csproj.CoreCompileInputs.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\obj\Debug\net6.0\One page website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\obj\Debug\net6.0\One page website.RazorAssemblyInfo.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\obj\Debug\net6.0\One page website.RazorAssemblyInfo.cs
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\obj\Debug\net6.0\scopedcss\bundle\One page website.styles.css
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\obj\Debug\net6.0\scopedcss\projectbundle\One page website.bundle.scp.css
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\obj\Debug\net6.0\One page website.dll
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\obj\Debug\net6.0\refint\One page website.dll
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\obj\Debug\net6.0\One page website.pdb
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\obj\Debug\net6.0\One page website.genruntimeconfig.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 2\One page website\One page website\obj\Debug\net6.0\ref\One page website.dll
