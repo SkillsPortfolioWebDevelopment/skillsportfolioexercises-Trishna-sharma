@@ -1,0 +1,26 @@
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\bin\Debug\net6.0\appsettings.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\bin\Debug\net6.0\Three images.staticwebassets.runtime.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\bin\Debug\net6.0\Three images.exe
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\bin\Debug\net6.0\Three images.deps.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\bin\Debug\net6.0\Three images.runtimeconfig.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\bin\Debug\net6.0\Three images.dll
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\bin\Debug\net6.0\Three images.pdb
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\obj\Debug\net6.0\Three images.csproj.AssemblyReference.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\obj\Debug\net6.0\Three images.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\obj\Debug\net6.0\Three images.AssemblyInfoInputs.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\obj\Debug\net6.0\Three images.AssemblyInfo.cs
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\obj\Debug\net6.0\Three images.csproj.CoreCompileInputs.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\obj\Debug\net6.0\Three images.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\obj\Debug\net6.0\Three images.RazorAssemblyInfo.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\obj\Debug\net6.0\Three images.RazorAssemblyInfo.cs
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\obj\Debug\net6.0\scopedcss\bundle\Three images.styles.css
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\obj\Debug\net6.0\scopedcss\projectbundle\Three images.bundle.scp.css
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\obj\Debug\net6.0\Three images.dll
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\obj\Debug\net6.0\refint\Three images.dll
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\obj\Debug\net6.0\Three images.pdb
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\obj\Debug\net6.0\Three images.genruntimeconfig.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Three images\Three images\obj\Debug\net6.0\ref\Three images.dll
