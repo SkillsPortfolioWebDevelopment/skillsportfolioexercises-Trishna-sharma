@@ -1,0 +1,26 @@
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\bin\Debug\net6.0\appsettings.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\bin\Debug\net6.0\Styling those divs.staticwebassets.runtime.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\bin\Debug\net6.0\Styling those divs.exe
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\bin\Debug\net6.0\Styling those divs.deps.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\bin\Debug\net6.0\Styling those divs.runtimeconfig.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\bin\Debug\net6.0\Styling those divs.dll
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\bin\Debug\net6.0\Styling those divs.pdb
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\obj\Debug\net6.0\Styling those divs.csproj.AssemblyReference.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\obj\Debug\net6.0\Styling those divs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\obj\Debug\net6.0\Styling those divs.AssemblyInfoInputs.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\obj\Debug\net6.0\Styling those divs.AssemblyInfo.cs
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\obj\Debug\net6.0\Styling those divs.csproj.CoreCompileInputs.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\obj\Debug\net6.0\Styling those divs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\obj\Debug\net6.0\Styling those divs.RazorAssemblyInfo.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\obj\Debug\net6.0\Styling those divs.RazorAssemblyInfo.cs
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\obj\Debug\net6.0\scopedcss\bundle\Styling those divs.styles.css
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\obj\Debug\net6.0\scopedcss\projectbundle\Styling those divs.bundle.scp.css
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\obj\Debug\net6.0\Styling those divs.dll
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\obj\Debug\net6.0\refint\Styling those divs.dll
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\obj\Debug\net6.0\Styling those divs.pdb
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\obj\Debug\net6.0\Styling those divs.genruntimeconfig.cache
+C:\Users\trish\OneDrive\Documents\GitHub\skillsportfolioexercises-Trishna-sharma\SetExercises-main\Chapter 3\Styling those divs\Styling those divs\obj\Debug\net6.0\ref\Styling those divs.dll
