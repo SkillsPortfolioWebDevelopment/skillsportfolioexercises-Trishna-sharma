@@ -1,0 +1,41 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="calculator.css" />
+</head>
+<body>
+
+
+    <div class="head">Temperature Calculator</div>
+    
+    <div class="container">
+        <input type="number" id="fahrenheit" placeholder="Enter Fahrenheit" />
+    </div>
+    <input id="celsius" type="text"  placeholder=" Celsius:"/>
+    <input id="kelvin" type="text" placeholder="Kelvin:">
+  
+
+    <table>
+        <tr>
+            <td>
+
+                <button class="btn" onclick="convertToCe();">Convert to Celsius</button>
+            </td>
+            <td>
+
+                <button class="btn" onclick="convertTokel();">Convert to Kelvin</button>
+            </td>
+
+            </td>
+            <td>
+
+                <button class="btn" onclick="reset()">Refresh</button>
+            </td>
+        </tr>
+        </table>
+
+    <script src="calculator.js"></script>
+</body>
+</html>
