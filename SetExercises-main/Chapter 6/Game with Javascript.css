@@ -1,0 +1,70 @@
+* {
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.game {
+    width: 1000px;
+    height: 600px;
+    border: 2px solid black;
+    margin: auto;
+    background-image: url("https://i.ytimg.com/vi/Ic3ZdD5ko7k/maxresdefault.jpg");
+    background-size: cover;
+}
+
+#character {
+    width: 150px;
+    height: 150px;
+    background-image: url("https://i.imgur.com/5chmy7G.gif");
+    position: relative;
+    background-size: cover;
+    top: 430px;
+}
+
+.animate {
+    animation: jump 0.3s linear;
+}
+
+@keyframes jump {
+    0% {
+        top: 150px;
+    }
+
+    30% {
+        top: 100px;
+    }
+
+    70% {
+        top: 100px;
+    }
+
+    100% {
+        top: 150px;
+    }
+}
+
+#block {
+    background-image: url("https://orig00.deviantart.net/23a1/f/2016/242/2/3/rock2_by_hannah_animator-dafv167.png");
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: 340px;
+    left: 1000px;
+    animation: block 2s infinite linear;
+}
+
+@keyframes block {
+    0% {
+        left: 1200px
+    }
+
+    100% {
+        left: -10px
+    }
+}
+
+p {
+    text-align: center;
+}
